@@ -25,3 +25,14 @@ In this lab, you learned how to use the CI/CD pipeline to automate the build and
 3. In the **CI** tab, click on the **Actions** button.
 4. In the **Actions** tab, click on the **Run workflow** button.
 5. In the **Run workflow** dialog box, click on the **Run workflow** button.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+# 🚀 Proyecto Node.js básico para Render
+
+Este es un servidor simple hecho con **Express** y **Node.js** para desplegar fácilmente en **Render**.
+
+## Cómo usar
+
+1. Clona este repositorio.
+2. Instala las dependencias:
+   ```bash
+   npm install

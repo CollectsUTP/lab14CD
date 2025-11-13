@@ -1,0 +1,12 @@
+{
+  "name": "mi-proyecto-node",
+  "version": "1.0.0",
+  "description": "Servidor Node.js básico para Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
